@@ -1,0 +1,3 @@
+[deps]
+GLFW = "f7f18e0c-5ee9-5ccd-a5bf-e8befd85ed98"
+VulkanCore = "16167f82-ea26-5cba-b1de-ed6fd5e30a11"
