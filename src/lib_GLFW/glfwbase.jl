@@ -16,7 +16,6 @@ end
 function Instance(delta,window)
     while !GLFW.WindowShouldClose(window)
         GLFW.PollEvents()
-        GLFW.DestroyWindow(window)
     end
 end
 function key_callback(window, key, scancode, action, mods)
