@@ -1,0 +1,17 @@
+# This file is machine-generated - editing it directly is not advised
+
+[[CEnum]]
+git-tree-sha1 = "62847acab40e6855a9b5905ccb99c2b5cf6b3ebb"
+uuid = "fa961155-64e5-5f13-b03f-caf6b980ea82"
+version = "0.2.0"
+
+[[Libdl]]
+uuid = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[[VulkanCore]]
+deps = ["CEnum", "Libdl"]
+git-tree-sha1 = "360172e411836a9a29dd9b72ca9c60b696737653"
+repo-rev = "master"
+repo-url = "https://github.com/JuliaGPU/VulkanCore.jl"
+uuid = "16167f82-ea26-5cba-b1de-ed6fd5e30a11"
+version = "1.1.11"
