@@ -6,5 +6,5 @@ module Vulta
     include("lib_GLFW/glfwbase.jl")
     # VULTA----
     include("lib_VULTA/vultabase.jl")
-    export Window,Instance,VKInstance,VultaInstance
+    export VultaInstance
 end
